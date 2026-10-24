@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": {
+            "A": "Mumbai",
+            "B": "Delhi",
+            "C": "Chennai",
+            "D": "Hyderabad"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which language are we learning?",
+        "options": {
+            "A": "Java",
+            "B": "Python",
+            "C": "C++",
+            "D": "HTML"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which symbol is used for comments in Python?",
+        "options": {
+            "A": "//",
+            "B": "/* */",
+            "C": "#",
+            "D": "<!-- -->"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which function is used to display output in Python?",
+        "options": {
+            "A": "print()",
+            "B": "display()",
+            "C": "show()",
+            "D": "output()"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which data type stores True or False?",
+        "options": {
+            "A": "String",
+            "B": "Integer",
+            "C": "Boolean",
+            "D": "List"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which symbol is used for multiplication in Python?",
+        "options": {
+            "A": "x",
+            "B": "*",
+            "C": "%",
+            "D": "#"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "Which keyword is used to define a function?",
+        "options": {
+            "A": "function",
+            "B": "func",
+            "C": "def",
+            "D": "define"
+        },
+        "answer": "C"
+    },
+    {
+        "question": "Which collection stores multiple values in order?",
+        "options": {
+            "A": "List",
+            "B": "Integer",
+            "C": "Boolean",
+            "D": "Float"
+        },
+        "answer": "A"
+    },
+    {
+        "question": "Which loop is commonly used to repeat through a list?",
+        "options": {
+            "A": "if",
+            "B": "for",
+            "C": "def",
+            "D": "try"
+        },
+        "answer": "B"
+    },
+    {
+        "question": "What is the extension of a Python file?",
+        "options": {
+            "A": ".java",
+            "B": ".html",
+            "C": ".py",
+            "D": ".js"
+        },
+        "answer": "C"
+    }
+]

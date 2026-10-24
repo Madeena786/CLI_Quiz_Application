@@ -1,0 +1,103 @@
+==============================
+       PYTHON QUIZ
+==============================
+
+Question 1
+What is the extension of a Python file?
+A. .java
+B. .html
+C. .py
+D. .js
+Enter your answer (A/B/C/D): C
+Correct!
+
+Question 2
+What is the capital of India?
+A. Mumbai
+B. Delhi
+C. Chennai
+D. Hyderabad
+Enter your answer (A/B/C/D): B
+Correct!
+
+Question 3
+Which collection stores multiple values in order?
+A. List
+B. Integer
+C. Boolean
+D. Float
+Enter your answer (A/B/C/D): A
+Correct!
+
+Question 4
+Which keyword is used to define a function?
+A. function
+B. func
+C. def
+D. define
+Enter your answer (A/B/C/D): C
+Correct!
+
+Question 5
+Which loop is commonly used to repeat through a list?
+A. if
+B. for
+C. def
+D. try
+Enter your answer (A/B/C/D): B
+Correct!
+
+Question 6
+Which data type stores True or False?
+A. String
+B. Integer
+C. Boolean
+D. List
+Enter your answer (A/B/C/D): C
+Correct!
+
+Question 7
+Which symbol is used for comments in Python?
+A. //
+B. /* */
+C. #
+D. <!-- -->
+Enter your answer (A/B/C/D): C
+Correct!
+
+Question 8
+Which function is used to display output in Python?
+A. print()
+B. display()
+C. show()
+D. output()
+Enter your answer (A/B/C/D): A
+Correct!
+
+Question 9
+Which language are we learning?
+A. Java
+B. Python
+C. C++
+D. HTML
+Enter your answer (A/B/C/D): B
+Correct!
+
+Question 10
+Which symbol is used for multiplication in Python?
+A. x
+B. *
+C. %
+D. #
+Enter your answer (A/B/C/D): B
+Correct!
+
+==============================
+       QUIZ FINISHED
+==============================
+Total Questions: 10
+Correct Answers: 10
+Wrong Answers: 0
+Score: 10 / 10
+Percentage: 100.0 %
+Excellent!
